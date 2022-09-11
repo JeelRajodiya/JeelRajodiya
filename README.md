@@ -18,7 +18,7 @@ Hi I'm Jeel Rajodiya, currently pursing B.Tech in Computer Engineering from [SCE
 ### I'm currently learning: 
 - <a href="https://https://https://nextjs.org//" title="next js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="nextjs" width="21px" height="21px"></a>  Next js
 
-###  I also have sufficient knowledge in these topics:
+###  I also have sufficient knowledge in:
 - <a href="https://golang.org/" title="Go"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="go" width="21px" height="21px"></a>  Go Language
 - <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="21px" height="21px"></a>  Python
 - <a href="https://https://svelte.dev/" title="svelte"><img src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" alt="svelte" width="21px" height="21px"></a> svelte
