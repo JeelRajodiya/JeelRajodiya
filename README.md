@@ -31,7 +31,7 @@ Hi I'm Jeel Rajodiya, currently pursing B.Tech in Computer Engineering from [SCE
 I personally believe that quality is always better than quantity. So I decided to gain **Deep knowledge**  of selected technologies that personally believe are worth investing time.
 
 ### How will I gain that "Deep knowledge"?
-I read the documentation of that topic, famous books related to that topic and blogs (that I personally find very helpful) with my full attention. 
+I read the documentation of that topic, famous books related to that topic and blogs (that I personally find very helpful) . 
 I keep practicing the things that I have learnt by implementing them in my side projects. 
 
 ### books I've read:
