@@ -1,4 +1,4 @@
-Hi I'm Jeel Rajodiya, currently pursing B.Tech in Computer Engineering from [SCET](https://scet.ac.in/pages/sarvajanik-college-of-engg-amp-tech-scet-/) surat since 2022. 
+Hi I'm Jeel Rajodiya, currently pursing B.Tech in Computer Science and Engineering from [AU](https://ahduni.edu.in/) surat since 2022. 
 
 > ### 🟢💻 **I'm open for part-time jobs, collaboration in small projects and internships** 
 
