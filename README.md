@@ -41,7 +41,7 @@ I keep practicing the things that I have learnt by implementing them in my side 
 - [Git Pro](https://git-scm.com/book/en/v2)  by [Ben Straub](https://www.amazon.com/Ben-Straub/e/B00OP1XH96/ref=dp_byline_cont_book_2)
 
 # contact me:
-✉ jeelr@outlook.in
+✉ jeelrajodiya@yahoo.com
 
  <a href="https://telegram.me/jeelrajodiya/" title="telegram"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="telegram" width="21px" height="21px"></a> [@JeelRajodiya](https://telegram.me/jeelrajodiya)
 
