@@ -23,4 +23,4 @@ style="filter:invert(1);" ></a>
 
 ![](https://komarev.com/ghpvc/?username=your-JeelRajodiya) [![wakatime](https://wakatime.com/badge/user/cef5ab56-b2e8-4d44-b0b1-460f56ab6126.svg)](https://wakatime.com/@cef5ab56-b2e8-4d44-b0b1-460f56ab6126)
 
-# [Contact Me](mailto:jeelrajodiyajeel@gmal.com)
+# [Contact Me](mailto:jeelrajodiyajeel@gmail.com)
